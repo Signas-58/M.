@@ -8,8 +8,8 @@ global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.ownernumber = '919931122319'  //creator number
-global.ownername = 'Ayush' //owner name
+global.ownernumber = '263777985546'  //creator number
+global.ownername = 'Tsakane' //owner name
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
 //sticker details
@@ -24,16 +24,16 @@ global.wm = "Ayush botz inc."
 global.link = '' // if you want to send bot reply with group link then put your link here 🌿 
 global.support = 'https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8'
 //custom prefix
-global.prefa = ['.'] //put here your fav prefix like +×÷= etc.
+global.prefa = ['!'] //put here your fav prefix like +×÷= etc.
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
 global.autoread = true //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = true //auto block +92 
-global.autoread_status = true //auto view status/story
+global.autoread_status = false //auto view status/story
 
 
 
