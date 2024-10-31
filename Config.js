@@ -8,7 +8,7 @@ global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.ownernumber = '263777985546'  //creator number
+global.ownernumber = '27812639791'  //creator number
 global.ownername = 'Tsakane' //owner name
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
